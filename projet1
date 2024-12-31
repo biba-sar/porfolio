@@ -1,0 +1,12 @@
+#email sen
+
+def replace_word():
+    
+    str = "Hi, guys, I am Abibatou and you!"
+    word_replace = "guys"
+    word_replacement = "Bro"
+    print(str.replace(word_replace, word_replacement))
+replace_word()
+    
+    
+    
